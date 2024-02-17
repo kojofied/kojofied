@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kojofied
 - 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...C++,VB, Web-Development
+- 🌱 I’m currently learning ...C++,Vb, Java, and Web-Development
 - 💞️ I’m looking to collaborate on ...Web-Development
 - 📫 How to reach me ...yanksonbright@gmail.com
 
